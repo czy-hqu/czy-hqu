@@ -1,14 +1,14 @@
  
 ## 😄Hi, this is Chen Ziyi's team from the School of Computer Science, Huaqiao University!
 
-### 📫 Reseach-wise, we mainly focus on: 
+### 📫 Reseach-wise, we mainly focus on:
 - Deep learning       
 - computer vision
 - pattern recognition
 - machine learning
 - remote sensing data information extraction and intelligent processing
 
-### ⚡ Publications:    
+### ⚡ Publications:
 
 1. **Ziyi Chen**, Yuhua Luo, Yiping Chen, Jing Wang, Dilong Li, Kyle Gao, Cheng Wang, Jonathan Li*. BrGAN: Blur Resist Generative Adversarial Network With Multiple Joint Dilated Residual Convolutions for Chlorophyll Color Image Restoration, in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-12, 2023. (SCI一区，JCR 一区，Top期刊) [【Paper】](https://doi.org/10.1109/TGRS.2023.3324993)
 
@@ -34,9 +34,18 @@
 
 12. **Ziyi Chen**, Dilong Li, Wentao Fan, Haiyan Guan, Cheng Wang and Jonathan Li*. Self-Attention in Reconstruction Bias U-Net for Semantic Segmentation of Building Rooftops in Optical Remote Sensing Images, 2021, vol. 13, pp. 2524. (SCI 二区，JCR一区，TOP期刊) [【Paper】](https://doi.org/10.3390/rs13132524)
 
-<!--
+### 🌱 Team member:            
+
+**Tutor:** Chen Ziyi [【Homepage】](https://faculty.hqu.edu.cn/CZY/zh_CN/index.htm)
+
+**Students:**    
+- Class 2011：Luo Yuhua, Deng Liai  
+- Class 2022：Chen Hanhuang, Chen Yucai, Wang Huayou  
+- Class 2023：Wu Min, Qiu Wenhui, Cai Gaosheng    
+- Class 2024：Li Tingyu, Huang Jingyao, Cheng Xianfei, Liang Yijun, Chen Qifei       
+
+<!--  
 - 👋 Hi, I’m @czy-hqu     
 - 👀 I’m interested in ...   
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...  
 -->
