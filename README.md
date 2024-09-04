@@ -1,13 +1,14 @@
-😄 **Hi, this is Chen Ziyi's team from the School of Computer Science, Huaqiao University!**
+ 
+## 😄Hi, this is Chen Ziyi's team from the School of Computer Science, Huaqiao University!
 
-📫 **Reseach-wise, we mainly focus on:**
-- Deep learning   
+### 📫 Reseach-wise, we mainly focus on: 
+- Deep learning       
 - computer vision
 - pattern recognition
 - machine learning
 - remote sensing data information extraction and intelligent processing
 
-⚡ **Publications:**
+### ⚡ Publications:    
 
 1. **Ziyi Chen**, Yuhua Luo, Yiping Chen, Jing Wang, Dilong Li, Kyle Gao, Cheng Wang, Jonathan Li*. BrGAN: Blur Resist Generative Adversarial Network With Multiple Joint Dilated Residual Convolutions for Chlorophyll Color Image Restoration, in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-12, 2023. (SCI一区，JCR 一区，Top期刊) [【Paper】](https://doi.org/10.1109/TGRS.2023.3324993)
 
